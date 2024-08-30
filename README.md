@@ -1,7 +1,7 @@
 I designed and developed a REST API for a web/mobile application that provides functionalities similar to popular caller identification apps. 
+
 The API enables users to:
     Identify Spam Numbers: The API checks if a given phone number is marked as spam or has been reported as such by other users. It provides a spam likelihood score, helping users decide whether to answer unknown calls.
-
     Find People by Phone Number: Users can search for a person's name using their phone number. The API retrieves and displays matching results, ensuring accuracy and privacy.
 
 
